@@ -9,7 +9,7 @@ const Footer = () => {
     <footer id="footer">
       <div className="footer-content">
         <div className="footer-content-left">
-          <h1>Foodies Hub</h1>
+          <h1>FlavorFiesta</h1>
           <p>
           we deliver delicious meals straight to your door, fresh and fast. 
         From local favorites to international cuisines, we bring the best restaurants in town right to your fingertips. 
